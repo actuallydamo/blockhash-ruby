@@ -1,0 +1,86 @@
+[{
+        "file": "puffy_white.png",
+        "exact": "00000000fffffffff803f807f807f80ff90ff90fb90c9980ffffffff00000000",
+        "even": "00000000fffffffff803f807f807f80ff90ff90fb90c9980ffffffff00000000"
+    },
+    {
+        "file": "00133601.jpg",
+        "exact": "00000fe07ff8fff81ff8399831983bcc35ac303c384c3ffc0ef08660c003ffff",
+        "even": "00000fe07ff8fff81ff839d831883bcc39dc31ac300c3ffc9ef88e708041f1bf"
+    },
+    {
+        "file": "clipper_ship.jpg",
+        "exact": "00007ff07ff07fe07fe67ff07560600077fe701e7f5e000079fd40410001ffff",
+        "even": "00007ff07ff07fe07fe67ff07560600077fe701e7f5e000079fd40410001ffff"
+    },
+    {
+        "file": "00136101.jpg",
+        "exact": "000083f887fe8fff0fe00fe00ff80ff807fc07f807f803f803e003e007e0ffff",
+        "even": "000081f887ff8fff0fe00fe00ff80ff807fc07fc03f803f803e001e007f0ffff"
+    },
+    {
+        "file": "32499201.jpg",
+        "exact": "0002001f1fff1fff7ff71ff301f300007f9278f0f8700fc0ff98cc88c1cc03fc",
+        "even": "0002001f1fff1fff7ff31ff303f300006f9178f0f8701ee0ffc8ce88c1cc01fc"
+    },
+    {
+        "file": "00094701.jpg",
+        "exact": "03ff007d02da33f325e366690581b79fd103f307fc0474f93ff31e117f550700",
+        "even": "03ff007d02da33f325e366f90501379fd103c12ffd04fc787ff31e511f111702"
+    },
+    {
+        "file": "stoplights.jpg",
+        "exact": "0fe01fe007e027c037c077c00fc00fe007e047c001c003c007e007e007e003c0",
+        "even": "0fe00fe007e027c037c077c007e007e007e047c001c003c007e007e007e003c0"
+    },
+    {
+        "file": "00011601.jpg",
+        "exact": "3fff1ca004e80fe81fe00fe01fe81de8fffb0ffb00610031003b03ff80df01ff",
+        "even": "3fff1ca004e80fe81fe00fe01fe81de8fffb8ffb00e3000000f303ff83ff4185"
+    },
+    {
+        "file": "01109801.jpg",
+        "exact": "f80ff80ff007f007f007f183f4c3c5c3c7c3c7e3c1e3c007c007c007e007ffff",
+        "even": "f80ff80ff007f007f007f183f4c3c5c3c7c3c7e3c1e3c007c003c007e087ffff"
+    },
+    {
+        "file": "00002701.jpg",
+        "exact": "f81bf99ffb803400e07f8c7d049f058706013e233fe33fe11f600e638ea30def",
+        "even": "f81bf99ffb803400e07f8c5d849f049707033a033fe33fe1bfe00e618ee30ca7"
+    },
+    {
+        "file": "Babylonian.png",
+        "exact": "fe7ffe7ffe7ffc7ffc7ffc7ffc000000e107e187f89fe007c00ff81ff81ff83f",
+        "even": "fe7ffe7ffe7ffc7ffc7ffc7ffc7f0000c103e187f18ff08f8003fc3ff81ff81f"
+    },
+    {
+        "file": "06855701.jpg",
+        "exact": "fefd0fff000f0003037f03bc01bc11ff01fe01be01bd03ff007f007f0ffd0bf0",
+        "even": "fefd0fff000f0003037f03bc00bd11ff01ff01fe01bc01ff01ff007f03fd03f8"
+    },
+    {
+        "file": "00106901.jpg",
+        "exact": "ff80fe80fc01fe01ff00ff00ff00ff00fec0fd20f0e0fac0ecf0e7f0e7e0e040",
+        "even": "ff80fe80fe00fe01ff00ff00ff00ff00fec0ff00f820fae0fcc0e7f0e7e0e0c0"
+    },
+    {
+        "file": "24442301.jpg",
+        "exact": "ffff8101bf0192059005860f9d8fbfa99f818f818f999e198fc182e18001ffff",
+        "even": "ffff8101bf0192059005860f9d8fbf8d9f818f818f998e8b8f8982e18001ffff"
+    },
+    {
+        "file": "00631801.jpg",
+        "exact": "ffffc001bfa182018aa186e1877786e78623827385399fcf0001800fc0ffffff",
+        "even": "ffff8001bfb182018e8186e58dd587e58641807187df9be780018007e07fffff"
+    },
+    {
+        "file": "00631701.jpg",
+        "exact": "fffff803bd018001886382e78f7382afceef8e71813187070001800fc0ffffff",
+        "even": "fffffc01bd0180018c61806fcf7181efae6d8e71893983878001800fc0ffefff"
+    },
+    {
+        "file": "emptyBasket.png",
+        "exact": "fffffe07e00380009f899f818f0b8c4b9f9fd00fcc07cc03c003e00fe07ff1ff",
+        "even": "fffffe07e00380009b899f818f8f8c439f9fdc0fc807c803c003c00fe03ff1ff"
+    }
+]
