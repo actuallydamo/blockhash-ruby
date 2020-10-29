@@ -1,0 +1,103 @@
+[{
+        "file": "puffy_white.png",
+        "exact": "00000000fffffffff803f807f807f80ff90ff90fb90c9980ffffffff00000000",
+        "fast": "00000000fffffffff803f807f807f80ff90ff90fb90c9980ffffffff00000000",
+        "oddbits": "00018003ffffff1f007f00fe43fc8ff91f7632e400ffffffe0200000"
+    },
+    {
+        "file": "00133601.png",
+        "exact": "00000fe07ff8fff81ff8399831983bcc35ac303c384c3ffc8ef00660c003ffff",
+        "fast": "00000fe07ff8fff81ff839d831883bcc39dc31ac300c3ffc9ef88e708041f1bf",
+        "oddbits": "00001fc0ffc7ff83bf87330ce235fe31786030fbe0f780ee00003fff"
+    },
+    {
+        "file": "clipper_ship.png",
+        "exact": "00007ff07ff07fe07fe67ff07560600077fe701e7f5e000079fd40410001ffff",
+        "fast": "00007ff07ff07fe07fe67ff07560600077fe701e7f5e000079fd40410001ffff",
+        "oddbits": "0000dfc1ff83fe67fe4ffc181820fe723cedf80030d9943c20007fff"
+    },
+    {
+        "file": "00136101.png",
+        "exact": "000003f887fe9fff0fe00fe00ff80ff807fc07f807f803f803e003e007e0ffff",
+        "fast": "000081f887ff8fff0fe00fe00ff80ff807fc07fc03f803f803e001e007f0ffff",
+        "oddbits": "000107e23ffcff00fe01ff03fe07fc07f80fe01fc01f003c00fc3ffe"
+    },
+    {
+        "file": "32499201.png",
+        "exact": "0002001f1fff1fff7ff71ff301f300007f9278f0f8700fc0ff98cc88c1cc03fc",
+        "fast": "0002001f1fff1fff7ff31ff303f300006f9178f0f8701ee0ffc8ce88c1cc01fc",
+        "oddbits": "000e007c7ff8fff7fe67fcc00100d378e1f1c27780fd8cc9183b00fe"
+    },
+    {
+        "file": "00094701.png",
+        "exact": "03ff007d02da33f325e366690701b79fd103f307fc0474f93ff31e117f550700",
+        "fast": "03ff007d02da33f325e366f90501379fd103c12ffd04fc787ff31e511f111702",
+        "oddbits": "03fe016c1b699f127a748649c8ff81d30fb41ff189ffd1e72ae04540"
+    },
+    {
+        "file": "stoplights.png",
+        "exact": "07e007e007e027c027c027c007c007e007e003c000c003c007e007e007e003c0",
+        "fast": "07e007e007e027c027c027c007c007e007e003c000c003c007e007e007e003c0",
+        "oddbits": "0fc01f801f033e027801f803f007e007c007000e003e007c00f801f0"
+    },
+    {
+        "file": "00011601.png",
+        "exact": "3fff1ca004e80fe81fe00fe01fe81de8fffb0ffb00610031003b03ff80df01ff",
+        "fast": "3fff1ca004e80fe81fe00fe01fe81de8fffb8ffb00e3000000f303ff83ff4185",
+        "oddbits": "7ffc31003360ee81dc81fe07f40ffbbff607ec000007b03ff07fd022"
+    },
+    {
+        "file": "01109801.png",
+        "exact": "f80ff80ff007f007f007f183f4c3c5c3c7c3c7e3c1e3c007c007c007e007ffff",
+        "fast": "f80ff80ff007f007f007f183f4c3c5c3c7c3c7e3c1e3c007c003c007e087ffff",
+        "oddbits": "f81ff01fc03f807f007e30f8e1e2e3c7c3038f071e003c00f831ffff"
+    },
+    {
+        "file": "00002701.png",
+        "exact": "f81bf99ffb803400e07f8c7d049f058706013e233fe33fe11f600e638ea30def",
+        "fast": "f81bf99ffb803400e07f8c5d849f049706033e033fe33fe1bfe00e618ee30ca7",
+        "oddbits": "f817f23fcd0301fc0f018fc36786833a02fc84ff8dff01e411f84373"
+    },
+    {
+        "file": "Babylonian.png",
+        "exact": "fe7ffe7ffe7ffc7ffc7ffc7ffc000000e107e187f89fe007c00ff81ff81ff83f",
+        "fast": "fe7ffe7ffe7ffc7ffc7ffc7ffc7f0000c103e187f18ff08f8003fc3ff81ff81f",
+        "oddbits": "fe7ffcfff9ffc3ffc7ff8fc0000003e28f852fc43f001f83ff03fe1f"
+    },
+    {
+        "file": "06855701.png",
+        "exact": "fefd0fff000f0003037f03bc01bc11ff01fe01be01bd03ff007f007f0ffd0bf0",
+        "fast": "fefd0fff000f0003037f03bc00bd11ff01ff01fe01bc01ff01ff007f03fd03f8",
+        "oddbits": "fefe1ffc003800f037e027847f89ff01be03f007f01ff007e07f407c"
+    },
+    {
+        "file": "00106901.png",
+        "exact": "ff80fe80fc01fe01ff00ff00ff00ff00fec0fd20f0e0fac0ecf0e7f0e7e0e040",
+        "fast": "ff80fe80fe00fe01ff00ff00ff00ff00fec0ff00f820fae0fcc0e7f0e7e0e0c0",
+        "oddbits": "ff01f003f80ff00fe01fc03f807f40ff81f183eb07ef0efe1cf81820"
+    },
+    {
+        "file": "24442301.png",
+        "exact": "ffff8101bf0192059005860f9d8fbfa99f818f818f999e198fc182e18001ffff",
+        "fast": "ffff8101bf0192059005860f9d8fbf8d9f818f818f998e8b8f8982e18001ffff",
+        "oddbits": "ffff0407f80c105800b0c1efc7df818f831f267cdc74986c30007fff"
+    },
+    {
+        "file": "00631801.png",
+        "exact": "ffffc001bfa182018aa186e1877786e78623827385399fcf0001800fc0ffffff",
+        "fast": "ffffc001bfb180018e8186e58dd587e58641807187df9be780018007e07fffff",
+        "oddbits": "ffff0006fc8c409800b19d63efc7278c0f0b4e3f8d001800f81fffff"
+    },
+    {
+        "file": "00631701.png",
+        "exact": "fffff803bd018001886382e78f7382afceef8e71813187070001800fc0ffffff",
+        "fast": "fffffc01bd0180018c61806fcf7181efae6d8e71893983878001800fc0ffefff",
+        "oddbits": "ffffe006f40c00180c311c73f7e76fccc31bc6063c001800f81fffff"
+    },
+    {
+        "file": "emptyBasket.png",
+        "exact": "fffffe07e00380009f899f818f0b8c4bdf9fc00fcc07cc03c003e00fe07ff1ff",
+        "fast": "fffffe07e00380009b899f818f8f8c43df9fd40fc807c803c003c00fe03ff1ff",
+        "oddbits": "fffff81f8008003bf133e0e38dc0cfde1f801f201e003c01fc0ffc7f"
+    }
+]
