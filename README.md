@@ -45,21 +45,21 @@ image1 = Magick::Image.read("image1.png").first
 image2 = Magick::Image.read("image2.png").first
 
 # Generate full image hashes
-hash1 = blockhash.calculate(image1, bits = 16)
-hash2 = blockhash.calculate(image2, bits = 16)
+hash1 = Blockhash.calculate(image1, bits = 16)
+hash2 = Blockhash.calculate(image2, bits = 16)
 
 # Generate fast image hashes
-hash1 = blockhash.calculate_fast(image1, bits = 16)
-hash2 = blockhash.calculate_fast(image2, bits = 16)
+hash1 = Blockhash.calculate_fast(image1, bits = 16)
+hash2 = Blockhash.calculate_fast(image2, bits = 16)
 
 # Generate image hash from file path
-hash1 = blockhash.calculate_from_path("image1.png", bits = 16)
+hash1 = Blockhash.calculate_from_path("image1.png", bits = 16)
 
 # Determine if hashes are similar
-similar = blockhash.similar?(hash1, hash2, threshold = 10)
+similar = Blockhash.similar?(hash1, hash2, threshold = 10)
 
 # Calculate distance between two hashes
-distance = blockhash.distance(hash1, hash2)
+distance = Blockhash.distance(hash1, hash2)
 ```
 
 ## Contributing
